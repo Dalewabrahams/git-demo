@@ -13,4 +13,6 @@ Google News is a news aggregator and app developed by Google. It presents a cont
 
 
 
-Google News is a news aggregator and app developed by Google. It presents a continuous, customizable 
+Google News is a news aggregator and app developed by Google. It presents a continuous, customizable
+
+SAY WHAT 
